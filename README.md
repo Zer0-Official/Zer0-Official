@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Zer0-Official
 - 👀 I’m interested in coding, digital design, business, and music.
-- 🌱 I’m currently learning how to code in different languages, how to play bass, and more knowledge.
+- 🌱 I’m currently learning how to code in different languages, how to play music, and more knowledge.
 - 🖥️ I have a GitHub project called [Simpl-Py!](https://github.com/Zer0-Official/Simpl-Py)
-- 🎌 I'm looking to collaborate on the project.
+- 🚌 I have another project called [School-Bus-Mate](https://github.com/Zer0-Official/School-Bus-Mate)
+- 🎌 I'm looking to collaborate on a project.
 - 💞️ I’m looking to collaborate on a simple 2D logic game.
 - 📫 How to reach me: vlethestars10@gmail.com
 
