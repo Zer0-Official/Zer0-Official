@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kivy, databases, etc.**
 
-- 👯 I’m looking to collaborate on **a simple 2D logic game**
+- 👯 I’m looking to collaborate on **an app with Kivy**
 
 - 🤝 I’m looking for help with [School-Bus-Mate](https://github.com/Zer0-Official/School-Bus-Mate)
 
