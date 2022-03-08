@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zer0-official" alt="zer0-official" /></a> </p>
 
-- 🔭 I’m currently working on [School-Bus-Mate](https://github.com/Zer0-Official/School-Bus-Mate)
+- 🔭 I’m currently working on [CII](https://sites.google.com/view/cii-official/home)
 
-- 🌱 I’m currently learning **Kivy, databases, etc.**
+- 🌱 I’m currently learning **Graphic Design, Math, Python...**
 
-- 👯 I’m looking to collaborate on **an app with Kivy**
+- 👯 I’m looking to collaborate on **a Python project**
 
-- 🤝 I’m looking for help with [School-Bus-Mate](https://github.com/Zer0-Official/School-Bus-Mate)
+- 🤝 I’m looking for help with nothing for now
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zer0-Official/](https://github.com/Zer0-Official/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and CII**
 
 - 📫 How to reach me **vlethestars10@gmail.com**
 
