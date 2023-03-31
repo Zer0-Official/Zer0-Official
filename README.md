@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zer0-official" alt="zer0-official" /></a> </p>
 
-- 🔭 I’m currently working on [CII](https://sites.google.com/view/cii-official/home)
+- 🔭 I’m currently working on [Zer0 Script](https://github.com/Zer0-Official/Zer0-Script)
 
 - 🌱 I’m currently learning **Python, C, Servers, Graphic Design, etc**
 
